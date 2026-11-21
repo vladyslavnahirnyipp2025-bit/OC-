@@ -1,0 +1,5 @@
+.env
+*.key
+edge-headless/
+edge-profile/
+screen_*.png
